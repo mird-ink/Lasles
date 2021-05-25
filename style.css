@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  max-width: 1440px;
+  font-family: "Rubik", sans-serif;
+}
+.container {
+  width: 1140px;
+  margin: auto;
+}
+header {
+  display: flex;
+  width: 100%;
+  margin-top: 50px;
+}
+nav {
+  margin-top: 8px;
+  margin-left: 157px;
+}
+a {
+  margin-right: 40px;
+  line-height: 19px;
+  font-size: 16px;
+
+  color: #4f5665;
+  text-decoration: none;
+}
+header div {
+  margin-top: 8px;
+  margin-left: 100px;
+  font-size: 16px;
+  line-height: 19px;
+}
+.logIn {
+  color: #0b132a;
+}
+.Signup {
+  color: #f53855;
+}
+main {
+  margin-top: 80px;
+}
+h1 {
+  font-size: 50px;
+  line-height: 70px;
+  color: #0b132a;
+  font-weight: 500;
+}
+h2 {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.alink {
+  margin-top: 50px;
+  width: 250px;
+  height: 60px;
+
+  background: #f53838;
+  border-radius: 10px;
+}
+.alink a {
+  margin-left: 77px;
+  margin-top: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 25px;
+
+  color: #ffffff;
+}
+section {
+  display: flex;
+  margin-left: 150px;
+}
+section div {
+  margin-top: 4px;
+  margin-right: 55px;
+}
+h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+}
+.numbers {
+  margin-top: 104px;
+  height: 200px;
+}
+.numbers img {
+  margin-top: 40px;
+}
+.numbers ul {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.advantages {
+  display: flex;
+}
+.advantage {
+  margin-top: 176px;
+  margin-left: 169px;
+}
+.advantage h3 {
+  font-size: 35px;
+  line-height: 50px;
+}
+.advantage ul li {
+  margin-bottom: 15px;
+}
